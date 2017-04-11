@@ -1,4 +1,4 @@
 just source files
-used to crrate covers and other things 
+used to re-create covers and other parts  
 
 published at: https://www.youtube.com/c/swingfish
