@@ -85,6 +85,7 @@ a.button-small {
 
 </style>
 </head>
+<? include("inc/Investing-quotes.inc.php"); ?>
 <? include("inc/youtube-livecheck.php"); ?>
 <body data-gr-c-s-loaded="true" class="yesp-youtube-iframe-ready">
 	<div class="container" style="max-width: 960px; margin: auto; ">
