@@ -21,7 +21,7 @@
                   
                   				<ul>
                   				<li><b><u>Non-Profit</u></b><br />
-					  				This server chatroom is part of the <a href="https://www.enfoid.com/project/swingfish" target="_blank">Non-Profit Project "SwingFish"</a> which means all activities & actions must be towards the united goal of providing usable advice and a working community that new members will be able to benefit from.</li>
+					  				This Discord Server is part of the <a href="https://www.enfoid.com/project/swingfish" target="_blank">Non-Profit Project "SwingFish"</a> which means all activities & actions must be towards the united goal of providing usable advice and a working community that new members will be able to benefit from.</li>
 					  			<li><b><u>Cost</u></b><br />
 												The chatroom is free of any monetary charges towards you. Collaboration between members is the currency that we expect you to pay by participating in discussion, sharing constructive opinions and criticism without any unnecessary remarks, and being proactive towards the goals of the community!</li>
 <li><b><u>Politics</u></b><br />
