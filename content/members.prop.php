@@ -9,9 +9,9 @@ if (!checkDiscordPermission($_SESSION['discord']['id'], 'ball')) {
 ?>
 	<div class="col-sm-12" style="width:100%;padding-top:10px;border: 2px solid #1bdb68; margin: 0 auto 30px auto;">
 			  <h3 class="pricing-title">Active Membership required !</h3>
-			  <p>In order to qualify for Free Forex funding, you need to be a 
+			  <p>In order to qualify for Free Forex funding, you need to be an 
 			  <h2 align="center">ACTIVE &amp; RESPECTED Member!</h2>
-			  <small>you must achieve this first before you can apply here. the application will automatically visible once this step is completed.</small></p>
+			  <small>You must achieve this first before you can apply here. The application will automatically be visible once this step is completed.</small></p>
 <ul>You can achieve this in any way you see fit, but:
 	<li> <strong>DO NOT</strong> ask a mod on how to achieve this<br />
 		<small>if you do need help in such a basic task, we have no interest in you.</small></li>
