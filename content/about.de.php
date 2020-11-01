@@ -8,7 +8,7 @@ SwingFish begann mit der Idee, eine Gemeinschaft für Trader zu schaffen, einen 
 
 Um Ideen auszutauschen, sich mit Anfängern zu beschäftigen und gemeinsam zu wachsen.
 
-Aufgrund der Tatsache, dass die meisten Orte, die diese Art von Dingen tun, eine versteckte Agenda haben, machen wir dies jedoch anders, und so werden vom ersten Tag an alle angebotenen Dienstleistungen kostenlos oder mit einem Win-Win-Angebot kombiniert sein.
+Aufgrund der Tatsache, dass die meisten Anbieter, die diese Art von Diensten abieten, eine versteckte Agenda haben, machen wir dies jedoch anders, und so werden vom ersten Tag an alle angebotenen Dienstleistungen kostenlos oder mit einem Win-Win-Angebot kombiniert sein.
 
 Dies ist zu unserer Regel / Verpflichtung geworden. Mitglieder, die sich nicht an diese Regel halten, sind nicht willkommen!
 
