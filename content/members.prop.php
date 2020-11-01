@@ -10,9 +10,22 @@ if (!checkDiscordPermission($_SESSION['discord']['id'], 'ball')) {
 	<div class="col-sm-12" style="width:100%;padding-top:10px;border: 2px solid #1bdb68; margin: 0 auto 30px auto;">
 			  <h3 class="pricing-title">Active Membership required !</h3>
 			  <p>In order to qualify for Free Forex funding, you need to be a 
-			  <h1>ACTIVE &amp; RESPECTED Member!</h1>
-			  <small>you must archive this first before you can apply heres. the application will automatically visible once this step is completed.</small></p>
-			  <p align="right"><a href="https://www.enfoid.com/prop/qform/fasttrack" target="_blank" class="btn btn-default btn-icon-right waves-effect waves-light">Don't want to wait? use Fast-track<i class="icon-arrow-right"></i></a> &nbsp; <a href="https://www.discord.com/invite/swingfish" target="_blank" class="btn btn-secondary btn-icon-right waves-effect waves-light">Back to Discord</a></p>
+			  <h2 align="center">ACTIVE &amp; RESPECTED Member!</h2>
+			  <small>you must archive this first before you can apply here. the application will automatically visible once this step is completed.</small></p>
+<ul>You can archive this in any way you see fit, but:
+	<li> <strong>DO NOT</strong> ask a mod on how to archive this<br />
+		<small>if you do need help in such a basic task, we have no interest in you.</small></li>
+	<li> <strong>DO NOT</strong> write support tickets to EnFoid about getting the enrolment done.<br />
+		<small>it's free, we not adding to the cost by babysitting you!. FIGURE IT OUT!</small></li>
+	<li> <strong>DO NOT</strong> ask other members to Endorse you!<br />
+		<small>it's not how endorsement works, people will regornice your skills and will come forward themselves.<br />
+			cutting this short leads to community and application ban</small></li>
+	<li> <strong>DO NOT</strong> join the discord for the sole purpose of getting free funding.<br />
+<small>if you just join the community for the sole purpose of getting free money,<br />
+with no genuine interest in being a active, supportive and respected member, we have no interest in you being here!</small></li>
+</ul>
+
+			<p align="right"><a href="https://www.enfoid.com/prop/qform/fasttrack" target="_blank" class="btn btn-default btn-icon-right waves-effect waves-light">Too much ? no problem, with Fast-track you can get enrolled Today!</a> &nbsp; <a href="https://www.discord.com/invite/swingfish" target="_blank" class="btn btn-secondary btn-icon-right waves-effect waves-light">Back to Discord<i class="icon-arrow-right"></i></a></p>
 		  </div>
 <?
 }
