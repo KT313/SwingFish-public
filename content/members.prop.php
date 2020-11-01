@@ -11,12 +11,12 @@ if (!checkDiscordPermission($_SESSION['discord']['id'], 'ball')) {
 			  <h3 class="pricing-title">Active Membership required !</h3>
 			  <p>In order to qualify for Free Forex funding, you need to be a 
 			  <h2 align="center">ACTIVE &amp; RESPECTED Member!</h2>
-			  <small>you must archive this first before you can apply here. the application will automatically visible once this step is completed.</small></p>
-<ul>You can archive this in any way you see fit, but:
-	<li> <strong>DO NOT</strong> ask a mod on how to archive this<br />
+			  <small>you must achieve this first before you can apply here. the application will automatically visible once this step is completed.</small></p>
+<ul>You can achieve this in any way you see fit, but:
+	<li> <strong>DO NOT</strong> ask a mod on how to achieve this<br />
 		<small>if you do need help in such a basic task, we have no interest in you.</small></li>
 	<li> <strong>DO NOT</strong> write support tickets to EnFoid about getting the enrolment done.<br />
-		<small>it's free, we not adding to the cost by babysitting you!. FIGURE IT OUT!</small></li>
+		<small>it's free for you, but not for us! don't add to the cost by have us babysit you!. FIGURE IT OUT!</small></li>
 	<li> <strong>DO NOT</strong> ask other members to Endorse you!<br />
 		<small>it's not how endorsement works, people will regornice your skills and will come forward themselves.<br />
 			cutting this short leads to community and application ban</small></li>
